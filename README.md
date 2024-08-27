@@ -21,9 +21,9 @@ This Weather App allows users to select a country and view the weather for 3 to 
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/TayyabNawaz111/Weather-App-V2.git
-   ```
+```bash
+git clone https://github.com/TayyabNawaz111/Weather-App-V2.git
+```
 2. **Navigate to the project directory**:
 
 ```bash
