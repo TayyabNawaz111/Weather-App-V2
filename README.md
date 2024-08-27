@@ -24,25 +24,36 @@ This Weather App allows users to select a country and view the weather for 3 to 
    ```bash
    git clone https://github.com/TayyabNawaz111/Weather-App-V2.git
    ```
-   Navigate to the project directory:
+2. **Navigate to the project directory**:
 
-bash
-Copy code
+```bash
 cd weather-app
-Install the dependencies:
+```
 
-bash
-Copy code
+3. **Install the dependencies**:
+
+```bash
 npm install
-Usage
-Start the development server:
-bash
-Copy code
+```
+
+## Usage:
+
+1. **Start the development server**:
+
+```bash
 npm run dev
-Open your browser and go to http://localhost:5173.
-Select a country from the dropdown menu.
-View the weather for the famous cities displayed.
-Technologies Used
-React: JavaScript library for building user interfaces.
-Tailwind CSS: Utility-first CSS framework for styling.
-OpenWeather API: Used for fetching weather data.
+```
+
+2. **Open your browser and go to http://localhost:5173**.
+3. **Select a country from the dropdown menu**.
+4. **View the weather for the famous cities displayed**.
+
+## Technologies Used
+
+**React**: JavaScript library for building user interfaces.
+**Tailwind CSS**: Utility-first CSS framework for styling.
+**OpenWeather API**: Used for fetching weather data.
+
+## Contact:
+
+In case of any query. Feel free to contact at m.tayyab33600@gmail.com
